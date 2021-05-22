@@ -1,0 +1,14 @@
+参考连接：
+    https://github.com/keras-team/keras
+    https://github.com/pytorch/pytorch
+    https://cs231n.github.io/convolutional-networks/
+    https://github.com/ddbourgin/numpy-ml
+    https://github.com/wuziheng/CNN-Numpy
+
+    快速卷积算法: https://www.cnblogs.com/shine-lee/p/10906535.html
+    np.lib.stride_tricks.as_strided实现卷积: https://zhuanlan.zhihu.com/p/64933417
+    池化层: https://www.cnblogs.com/xiximayou/p/12720324.html
+    cnn反向传播: https://zhuanlan.zhihu.com/p/40951745, https://www.cnblogs.com/pinard/p/6494810.html
+
+    《python深度学习》
+    《神经网络与深度学习》
